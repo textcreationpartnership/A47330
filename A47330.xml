@@ -1,0 +1,851 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The duty of the rich, in a sermon preached before the Lord mayor, and Court of Alderman and citizens of London at S. Sepulchres Church, on Easter-Tuesday, April 22d. 1690 by Richard Kidder ...</title>
+            <author>Kidder, Richard, 1633-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47330</idno>
+            <idno type="STC">Wing K405</idno>
+            <idno type="STC">ESTC R4840</idno>
+            <idno type="EEBO-CITATION">11792271</idno>
+            <idno type="OCLC">ocm 11792271</idno>
+            <idno type="VID">49266</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49266)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 816:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The duty of the rich, in a sermon preached before the Lord mayor, and Court of Alderman and citizens of London at S. Sepulchres Church, on Easter-Tuesday, April 22d. 1690 by Richard Kidder ...</title>
+                  <author>Kidder, Richard, 1633-1703.</author>
+               </titleStmt>
+               <extent>[6], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.H. for Brabazon Ayler ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Avant-titre.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Timothy, 1st, VI, 17-19 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Holy-Week sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:49266:1"/>
+            <pb facs="tcp:49266:1" rendition="simple:additions"/>
+            <p>Dr. <hi>KIDDER</hi>'S SERMON Preached before the Lord Mayor,
+&amp;c. AT S. <hi>SEPULCHRES CHURCH,</hi> ON Eaſter-Tueſday, <hi>April</hi>
+22. 1690.</p>
+         </div>
+         <div type="license_to_print">
+            <pb facs="tcp:49266:2"/>
+            <opener>
+               <signed>PILKINGTON <hi>Mayor,</hi> &amp;c.</signed>
+               <dateline>
+                  <date>
+                     <hi>Martis</hi> xxix. Aprilis 1690.
+<hi>Anno<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Regni Regis &amp; Reginae,</hi> Willi<g ref="char:EOLhyphen"/>elmi <hi>&amp;</hi>
+Mariae, Angliae, <hi>&amp;c. Secundo.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THis COURT doth deſire Dr. <hi>Kidder,</hi> Dean of
+<hi>Peterbo<g ref="char:EOLhyphen"/>rough,</hi> to Print his Sermon, Preached on <hi>Tueſday</hi> in
+<hi>Eaſter-Week</hi> laſt, be<g ref="char:EOLhyphen"/>fore the Lord Mayor, Aldermen, and Citizens
+of <hi>London</hi> at S. <hi>Se<g ref="char:EOLhyphen"/>pulchres.</hi>
+            </p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:49266:2" rendition="simple:additions"/>
+            <p>THE <hi>Duty of the Rich:</hi> IN A SERMON Preached before the
+LORD MAYOR, AND <hi>Court of Aldermen,</hi> AND CITIZENS of <hi>LONDON:</hi> AT
+S. Sepulchres Church, ON <hi>Eaſter-Tueſday,</hi> April 22<hi rend="sup">d</hi>. 1690.</p>
+            <p>By <hi>Richard Kidder,</hi> D.D. and Dean of
+<hi>Peterborough.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. H.</hi> for <hi>Brabazon
+Aylmer</hi> at the Three <hi>Pigeons</hi> againſt the <hi>Royal Exchange</hi>
+in <hi>Cornhill.</hi> 1690.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49266:3" rendition="simple:additions"/>
+            <pb facs="tcp:49266:3"/>
+            <head>To the Right Honourable Sir <hi>THOMAS PILKINGTON,</hi> Lord
+Mayor OF THE CITY of <hi>LONDON,</hi> AND THE <hi>Court of
+Aldermen.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>IN obedience to your Order I preſent you with the following
+Sermon. I heartily wiſh it may gain the End which it aims at; That all Men of
+Wealth and Publick Influence would im<g ref="char:EOLhyphen"/>prove the advantages they have to the
+Honour of God and the Good of the Community. It is high time to ſet about it
+vigorouſly, and that they make it their conſtant care and buſineſs.</p>
+            <p>Very much Good may be done this way by the united endeavours of
+thoſe men who have Wealth and Authority: God and all Good men expect it from
+them: 'Tis at once their duty and their trueſt intereſt. This courſe will
+be much for the<pb facs="tcp:49266:4"/>Honour of this great City, 'twill be its beſt
+ſecu<g ref="char:EOLhyphen"/>rity, and the beſt means to procure the Divine Protection.</p>
+            <p>May it pleaſe Almighty God to inſpire you all with a great
+zeal for the advancement of true Religion, the promoting all works of mercy and
+beneficence, the encouraging induſtry and dili<g ref="char:EOLhyphen"/>gence, the ſuppreſſing
+all profaneneſs, the ob<g ref="char:EOLhyphen"/>viating all unchriſtian heats and animoſities,
+and the doing your utmoſt in your ſeveral places to all theſe great
+purpoſes. This is the hearty Prayer of</p>
+            <closer>
+               <signed>Your moſt aſſured and humble Servant,
+<hi>Richard Kidder.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:49266:4"/>
+            <head>A SERMON Preached before <hi>The Lord Mayor,</hi>
+&amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>1 TIM. VI. v. 17, 18, 19.</bibl> 
+                  <p>Charge them that are rich in this world, that they be not
+high-minded, nor truſt in uncer<g ref="char:EOLhyphen"/>tain riches, but in the living God, who
+gi<g ref="char:EOLhyphen"/>veth us richly all things to enjoy. That they do good, that they be rich in
+good works, ready to diſtribute, willing to communicate; Lay<g ref="char:EOLhyphen"/>ing up in
+ſtore for themſelves a good founda<g ref="char:EOLhyphen"/>tion againſt the time to come, that
+they may lay hold on eternal life.</p>
+               </q>
+            </epigraph>
+            <div type="introduction">
+               <p>THERE is no condition whatever in this world but what is liable
+to temptation and a ſnare: but none is more obnoxious than that of the
+proſpe<g ref="char:EOLhyphen"/>rous and wealthy. There are many that<pb n="2" facs="tcp:49266:5"/>have born
+poverty and other afflictions well, and not onely born them but improved them
+too: they have been happy occaſions of good to mankind; and moſt of our
+at<g ref="char:EOLhyphen"/>tainments have been owing to our afflictions. And the Church of God was
+never more conſpicuous for piety and goodneſs than when ſhe was poor and
+perſecuted. 
+<note place="margin"> 
+                     <q>
+                        <hi>Nulla pars vitae noſtrae tam obnoxia aut tenera eſt,
+quam quae maximè pla<g ref="char:EOLhyphen"/>cet.</hi> 
+                        <bibl>Senec.</bibl>
+                     </q>
+                  </note> But on the other hand there
+are but few men that can bear proſperity well, that can concoct and digeſt
+a proſperous and full condition. This is generally too fulſom and rank for
+the greater part of mankind. Riches are depre<g ref="char:EOLhyphen"/>cated by the Wiſeman in the
+Book of <hi>Pro<g ref="char:EOLhyphen"/>verbs:</hi> They are attended with great cumber and violent
+temptations; and as they never make us better, ſo they do often leave us
+worſe. We are in very great danger when we are proſperous. This the
+Apoſtle well knew, and therefore requires <hi>Timothy</hi> to take care in
+this matter: And that he does with vehemence and great concern; he does not bid
+him barely to <hi>tell</hi> them that are rich, or <hi>put them in mind</hi> of
+their danger, but to <hi>charge</hi> them, or to preſs it home upon them; to
+rouſe and a waken them to a due ſenſe of their <hi>danger</hi> and their
+<hi>duty,</hi> and of their trueſt <hi>intereſt</hi> alſo. <hi>Charge
+them,</hi> &amp;c.</p>
+               <p>
+                  <pb n="3" facs="tcp:49266:5"/>In which words <hi>Timothy</hi> is put upon
+diſ<g ref="char:EOLhyphen"/>charging his duty towards thoſe who were rich; and to that purpoſe to
+warn them what to avoid, what to doe, and what great reaſon they have to
+comply with this advice. For the more orderly proceeding and better ſpeaking
+to my words, I ſhall 
+<list>
+                     <item>Firſt, lay before you the <hi>danger</hi> in which rich
+men are, and what it is they are eſpecial<g ref="char:EOLhyphen"/>ly to be cautioned againſt.
+<hi>That they be not high-minded, and truſt not in uncertain
+riches.</hi>
+                     </item>
+                     <item> Secondly, the Duty of Rich men, or what they ought to be
+earneſtly put upon: <hi>viz. To truſt in the living God,</hi> to <hi>doe
+good,</hi> to be <hi>rich in good works, ready to diſtribute, wil<g ref="char:EOLhyphen"/>ling to
+communicate.</hi>
+                     </item>
+                     <item> Thirdly, the true intereſt of Rich men, or the motives
+that may be uſed to perſuade them to the diſcharge of their duty; where I
+ſhall conſider the importance of what S. <hi>Paul</hi> lays before us to
+this purpoſe in the words of my Text, <hi>Laying up a good foundation for the
+time to come,</hi> and that they may <hi>lay hold of eternal life.</hi>
+                     </item>
+                     <item> Fourthly, I ſhall make ſome Uſe and Ap<g ref="char:EOLhyphen"/>plication
+of what ſhall have been ſaid.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="1" type="section">
+               <pb n="4" facs="tcp:49266:6"/>
+               <head>I.</head>
+               <p>(I.) I ſhall lay before you the <hi>danger</hi> in which Rich
+men are, and what it is they are eſpecially to be cautioned againſt. That
+they be not <hi>high-minded,</hi> and that they <hi>truſt not in uncertain
+Riches.</hi>
+               </p>
+               <p>Great is the danger of plenty and fullneſs; <hi>Pride,</hi>
+and <hi>fullneſs</hi> of <hi>bread,</hi> and <hi>abundance</hi> of
+<hi>idleneſs,</hi> met together in <hi>Sodom.</hi>
+                  <note place="margin">Ezek.
+xvj. 49.</note> This often extinguiſheth that lively ſenſe that we ought
+to have of our dependance upon God, ren<g ref="char:EOLhyphen"/>ders our Prayers languid and weak, and
+gives fuel and nouriſhment to our luſts and our vices; it choaks God's
+word, keeps our faults from our eyes, and makes us unmindfull of the needs of
+others.</p>
+               <p>But I ſhall confine my ſelf in this matter to the words of
+my Text. St. <hi>Paul</hi> would have Rich men charged that they be not
+<hi>high-minded.</hi> Haughtineſs and Pride, a great opinion of our ſelves,
+and contempt of our poor Brother, do commonly attend upon Riches. We too often
+reckon them the pledges of God's favour, and marks of his kindneſs, or the
+fruits of our own wifedom or induſtry; and inſtead of being modeſt and
+thankfull, we grow proud and inſolent. Hence it is that <hi>Moſes</hi> does
+ſo often charge<pb n="5" facs="tcp:49266:6"/>the Iſraelites, that when they ſhould
+<hi>have eaten</hi> and be <hi>full,</hi> that they <hi>forget not God,</hi>
+nor <hi>lift up</hi> their <hi>heart.</hi>
+                  <note place="margin">Deut. vj. 12.
+viij. 10,14.</note> And there is great reaſon that we ſhould be very
+carefull that we be not ſwelled with Pride and Vanity upon this account.</p>
+               <p>If we conſider things with due application of mind, we ſhall
+think it a very reaſonable charge given here to the rich, that they be not
+high-minded: for whatever ground there be for thankfulneſs, here's none for
+Pride or Arrogance.</p>
+               <p>Be it ſo that you are rich; 'tis the bleſſing of God alone
+that hath made you ſo; your accounts will be the greater, and much will be
+required of all them that have received much. Your wealth does not advance you
+toward the Kingdom of Heaven. Our Lord hath ſaid it, <hi>A rich man ſhall
+hardly enter into the Kingdom of Heaven.</hi>
+                  <note place="margin">Matt. xix.
+23.</note> And St. <hi>James, that he is made low;</hi>
+                  <note place="margin">Jam. i. 10.</note> and St. <hi>Paul,</hi> that <hi>God hath
+choſen the weak things of the world.</hi>
+                  <note place="margin">1 Cor. i.
+27.</note> Again, our Bleſſed Saviour, <hi>Woe unto you that are rich, for
+you have received your conſolation.</hi>
+                  <note place="margin">Luke vj.
+24,20.</note> And on the other hand, <hi>Bleſſed be ye poor, for yours is
+the Kingdom of God.</hi> Riches are ſo far from <hi>hel<g ref="char:EOLhyphen"/>ping forward</hi> our
+Salvation, that they often<pb n="6" facs="tcp:49266:7"/>obſtruct it, and always render it
+more <hi>diffi<g ref="char:EOLhyphen"/>cult</hi> and <hi>hazardous.</hi> We muſt give a ſtrict
+account how we got our Wealth, and how we ſpend it Here's enough to humble
+us, no ground for Pride or Arrogance. Well might the Apoſtle require
+<hi>Timothy</hi> to charge them that are rich that they be not high-minded.</p>
+               <p>But he would have them charged too that they <hi>truſt not in
+uncertain Riches.</hi> 
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, i. e.
+<hi>That they do not confide in the uncertainty of Riches.</hi> There is great
+rea<g ref="char:EOLhyphen"/>ſon for this charge, if we conſider how com<g ref="char:EOLhyphen"/>monly Rich men miſcarry
+in this matter, or how great a folly and evil it is ſo to doe.</p>
+               <p>Firſt, Rich men do too often truſt in their Riches. We reade
+of them that <hi>truſt in their wealth, and boaſt themſelves in
+the multitude of their riches.</hi>
+                  <note place="margin">Pſal. xlix. 6. lij.
+7.</note> Too many there are to whom the Pſalmiſt's words may be applied.
+<hi>Lo, this is the man that made not God his ſtrength, but tru<g ref="char:EOLhyphen"/>ſted in the
+abundance of his riches.</hi> We deſire them paſſionately, and promiſe
+our ſelves great eaſe and ſatisfaction from them. We too commonly make
+them our refuge and ſtay, and <hi>when riches encreaſe we ſet our hearts
+upon them.</hi>
+                  <note place="margin">Pſal. xlij. 10.</note> Hence we expect
+eaſe and relief; we pleaſe our ſelves when we think of them, 
+<pb n="7" facs="tcp:49266:7"/>and promiſe our ſelves mountains of felicity from them:
+There is hardly any man of Wealth but is in danger, and therefore had need be
+charged.</p>
+               <p>Secondly, This is great folly and a great evil. 'Tis great folly
+to truſt in uncertainty, to fix our ſtay and our hope upon that which may
+fail us; to bear and reſt upon any thing that may fail us, and give way, is
+ſo great a piece of folly that we are not guilty of it in other caſes.
+Nothing is more uncertain than Riches. This earthly treaſure <hi>moth</hi>
+and <hi>ruſt doth corrupt, and thieves break through and ſteal.</hi>
+                  <note place="margin">Matt. vj. 20.</note> It makes it ſelf <hi>wings</hi> and
+<hi>flies away.</hi> It lies at the mercy of wind and weather, of fire and
+water, of robbers and falſe people, of a multitude of accidents and
+contingencies.</p>
+               <p>Beſides, to truſt in uncertain Riches is a great evil: 'Tis
+to make Riches our God. 'Tis Idolatry in the trueſt ſenſe. 'Tis no
+mat<g ref="char:EOLhyphen"/>ter though we build no Altars, though we offer no Bloud nor Incenſe, if
+we truſt in them, and give them our hearts, we make them our God, and ſhut
+our ſelves out of the King<g ref="char:EOLhyphen"/>dom of Heaven. <hi>How hardly</hi> (ſays our
+Sa<g ref="char:EOLhyphen"/>viour) <hi>ſhall they that have Riches enter into the Kingdom of
+God!</hi>
+                  <note place="margin">Mark x. 23,24,25.</note> They are an hindrance 
+<pb n="8" facs="tcp:49266:8"/>to them that <hi>have</hi> them; but for them that
+<hi>Truſt in them,</hi> as our Saviour adds afterward, <hi>It is eaſier for
+a Camel to go through the eye of a needle, than for ſuch men to enter into
+the King<g ref="char:EOLhyphen"/>dom of God.</hi>
+                  <note place="margin">1 Cor. vj. 9.</note> This
+<hi>Idolatry</hi> will exclude us from the inheritance of God's Kingdom. This
+puts us out of God's favour and the ſtate of grace; this friend of the World
+is the enemy of God: And ſuch a friendſhip of this world is that Idolatry
+which is wont to be expreſſed by Adultery, or Spiritual Fornication: And
+this ſeems to be the importance of what St. <hi>James</hi> ſays. <hi>Ye
+adulterers and adultereſſes, know ye not that the friendſhip of the world
+is enmity with God?</hi>
+                  <note place="margin">Jam. iv. 4.</note> Our Saviour
+aſſures us that we cannot ſerve <hi>two Maſters, God</hi> and
+<hi>Mammon.</hi>
+                  <note place="margin">Mat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. vj. 24.</note>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>II.</head>
+               <p>(II.) I conſider the Duty of Rich men, or, what they ought to
+be earneſtly put up<g ref="char:EOLhyphen"/>on: <hi>viz. To truſt in the living God, to doe good,
+to be rich in good works, ready to diſtri<g ref="char:EOLhyphen"/>bute, willing to
+communicate.</hi>
+               </p>
+               <p>Firſt, <hi>To truſt in the living God.</hi> Not that this is
+the peculiar duty of the Rich, for 'tis the Duty of all: But the Rich are
+conſidered here as prone to truſt in uncertain Riches, and in oppoſition
+to that are to be war<g ref="char:EOLhyphen"/>ned<pb n="9" facs="tcp:49266:8"/>and charged to <hi>truſt in the
+living God.</hi>
+               </p>
+               <p>And that very agreeably in this place. For whereas Riches are
+periſhing things, flitting and uncertain, unſatisfactory and
+diſpropor<g ref="char:EOLhyphen"/>tionate, unable to make us happy and at eaſe; and are ſo far
+from it that they often perplex us and pierce us with many ſorrows: 'tis very
+fit they ſhould be directed where to place their truſt and their hope, and
+ſo wiſe<g ref="char:EOLhyphen"/>ly to place it that they may not be diſap<g ref="char:EOLhyphen"/>pointed, and nothing
+could have in this caſe been adviſed more agreeably than this, that they
+ſhould <hi>Truſt in the living God.</hi>
+               </p>
+               <p>In the <hi>living God</hi> and not in <hi>fading</hi> and
+<hi>pe<g ref="char:EOLhyphen"/>riſhing</hi> Riches. In God who lives, and lives for ever; who is the
+firſt and the laſt, and always the ſame: who lives from himſelf and can
+never dye or fail to be, and be what He is, with whom is no variableneſs or
+ſhadow of turning. 'Tis worth our while to make him our truſt who cannot
+fail us, to place our hope in Him who onely hath immortali<g ref="char:EOLhyphen"/>ty. What can our
+Riches avail! what com<g ref="char:EOLhyphen"/>fort can they afford in the day of tryall! what
+proportion do they bear to our needs, or to our capacities! what ſtupendious
+folly is it to truſt in ſuch uncertainty! To direct<pb n="10" facs="tcp:49266:9"/>our
+thirſty and parched Souls to theſe empty and broken veſſels, and to
+neglect the foun<g ref="char:EOLhyphen"/>tain of living waters! On the ſide of Riches there's nothing
+but <hi>vexation</hi> or <hi>vanity,</hi> but varniſh and uncertainty, a
+ſplendid nothing, that hath baffled and abuſed the Sons of men from one
+generation to another. On the other hand if we truſt in God, in the li<g ref="char:EOLhyphen"/>ving
+God, we ſhall never be deluded with falſe hopes, never fruſtrated in any
+juſt ex<g ref="char:EOLhyphen"/>pectation. We ſhall be provided for by an infinite Wiſedom,
+protected by an Almighty power, and be ſure to lack nothing.</p>
+               <p>Here's a motive to this in my Text, <hi>Who giveth us richly all
+things to enjoy.</hi> We ought to truſt in the <hi>giver,</hi> not in the
+<hi>gift;</hi> to hope in Him that gives us all things: and not on<g ref="char:EOLhyphen"/>ly our
+being, our life and breath, not onely the neceſſaries of our being, but the
+comforts and ſatisfactions of it alſo: not onely what is needfull, but what
+is for delight and for or<g ref="char:EOLhyphen"/>nament; for entertainment and careſs; He hath
+advanced the Rich above their Fellow-creatures, and dealt out his favours with
+a bountifull and liberal hand. And therefore are the Rich particularly obliged
+to truſt in ſo great and kind a Benefactour: This mo<g ref="char:EOLhyphen"/>tive<pb n="11" facs="tcp:49266:9"/>alſo is of great force to ſet home the re<g ref="char:EOLhyphen"/>maining Duties of the
+Rich, which follow in the next words, and which <hi>Timothy</hi> is re<g ref="char:EOLhyphen"/>quired
+to charge them with: <hi>viz.</hi>
+               </p>
+               <p>Secondly, <hi>That they doe good; i. e.</hi> that they beſtow
+benefits: that <hi>they be rich in good works;</hi> that is, that they abound
+in theſe things: <hi>Ready to diſtribute; i. e.</hi> liberal, and prompt,
+and always prone to doe them: <hi>Willing to communicate;</hi>
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>i. e.</hi> that they be of a
+publick ſpirit, not of a narrow and private one; but doing that which is for
+the good of the Community of which they are but members.</p>
+               <p>I ſhall wave the critical and nice enquiry into the original
+words as they lie in the Greek Text: But yet I ſhall not forbear to
+conſider the words particularly in order to my laying before you the
+ſeveral branches of that duty which is incumbent upon Rich men.</p>
+               <p>Firſt, <hi>That they doe good:</hi> This is very
+comprehenſive, and extendeth very far. To all <hi>ſorts</hi> of <hi>Good
+works;</hi> to works of <hi>Piety</hi> to God-ward; of <hi>Juſtice</hi> and
+<hi>Mercy</hi> to our <hi>Brother; Sobriety</hi> and <hi>Temperance,</hi> with
+regard to our ſelves: But more particularly and ſpe<g ref="char:EOLhyphen"/>cially it takes in all
+benefactions towards our neighbour; and as his needs are many and 
+<pb n="12" facs="tcp:49266:10"/>various, ſo are the parts of this Duty like<g ref="char:EOLhyphen"/>wiſe. Under
+this Head are contained, the cloathing the naked, the feeding the hungry,
+miniſtring to the ſick, comforting the afflic<g ref="char:EOLhyphen"/>ted, vindicating the injured,
+encouraging the diligent, and adviſing and inſtructing the weak and
+ignorant. Such acts of kindneſs are not to be limited, either to
+<hi>perſons</hi> or <hi>times.</hi> We muſt doe good to all, to our
+<hi>ene<g ref="char:EOLhyphen"/>mies,</hi> to <hi>ſtrangers,</hi> and to men who differ from us: To
+the <hi>preſent Generation</hi> and to <hi>Poſterity.</hi>
+               </p>
+               <p>Secondly, <hi>That they be rich in good works:</hi> They muſt
+do them plentifully, give porti<g ref="char:EOLhyphen"/>ons to ſix, and alſo to ſeven; not
+confine themſelves to one ſort of charity, or to ſome ſmall meaſures,
+but as God hath given them great plenty, ſo muſt they give largely too.
+'Tis not enough for them who abound in wealth to give away a little broken meat
+at a Gate, or a few Gowns at the return of an annual ſolemnity, or to throw
+away now and then a few looſe grains among the poor. This is not to be rich
+in good works. 'Twould well become theſe men to think of ſome en<g ref="char:EOLhyphen"/>dowments,
+or conſiderable additions to Churches or Hoſpitals, or of erecting
+Work<g ref="char:EOLhyphen"/>houſes,<pb n="13" facs="tcp:49266:10"/>and redeeming a number of men from Priſons
+and great miſeries.</p>
+               <p>Thirdly, that <hi>they be ready to diſtribute; i. e.</hi> that
+they be prompt and prone, and al<g ref="char:EOLhyphen"/>ways diſpoſed to doe good works. There are
+thoſe who will not refuſe to comply when they are put upon a good work:
+they will not ſtand out and be ſingular when others contribute, but yet
+they are not forward to promote, nor much pleaſed to be moved this way. But
+St. <hi>Paul</hi> would have Rich men of a temper and inclination this way.</p>
+               <p>Fourthly, <hi>Willing to communicate.</hi>
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. That is, of a publick ſpirit,
+deſigning the good of the Community, and preferring it not onely to private
+intereſt and advantage, but to private and particular charity alſo. There
+are ſome things of that nature that they are for the good of a Kingdom, of
+Ci<g ref="char:EOLhyphen"/>ties and Societies of men; for the good of the preſent, and of
+ſucceeding Generations. And the farther any good work reacheth the better it
+is, and the greater imitation of God's goodneſs, who is good unto all, and
+whoſe mercy is above all his works.</p>
+               <p>The ſubſtance then of the charge laid here upon Rich men
+amounts to this: <hi>viz.</hi> That<pb n="14" facs="tcp:49266:11"/>they exerciſe
+themſelves in all ſort of Bene<g ref="char:EOLhyphen"/>factions, and that they doe it largely,
+accor<g ref="char:EOLhyphen"/>ding to the proportion of their Wealth and Store; that they be always
+prone and incli<g ref="char:EOLhyphen"/>ned this way, and that they be more eſpeci<g ref="char:EOLhyphen"/>ally addicted to
+thoſe good works which promote the good of the Community. I proceed to
+conſider,</p>
+            </div>
+            <div n="3" type="section">
+               <head>III.</head>
+               <p>(III) The true Intereſt of Rich men, or the motives that may
+be uſed to perſuade them to this diſcharge of their Duty; where I ſhall
+conſider the importance of what Saint <hi>Paul</hi> lays before us in the
+words of my Text, <hi>Laying up a good foundation for the time to come, and
+that they may lay hold of eternal life.</hi> And that you may take in the
+following par<g ref="char:EOLhyphen"/>ticulars.</p>
+               <p n="1">1. This is the true end and uſe of Riches. The
+<hi>end</hi> for which they were beſtowed, and the beſt
+<hi>improvement</hi> that can be made of them. They were never deſigned to be
+hoar<g ref="char:EOLhyphen"/>ded up and laid by, but to be employed for the honour of God, and the
+benefit of each other. 'Tis the uſe of them that gives them their price and
+value, and ſtamps them with the faireſt character: Not to be uſefull
+dif<g ref="char:EOLhyphen"/>fers<pb n="15" facs="tcp:49266:11"/>very little from not to be at all. He that hides
+his Talent is as if he had never received it. He that keeps his wealth (as a
+Gaoler keeps his Priſoner) voids the end for which 'twas given. Such a man
+detains good from thoſe to whom it is due, and is falſe to his great Lord
+that entruſts him, and his wealth becomes Mammon of unrighteouſneſs. For
+ſo Riches are not onely when they are ill got<g ref="char:EOLhyphen"/>ten, but when they are detained
+from the uſes for which they were beſtowed. We are but Stewards and
+Truſtees, and not to diſ<g ref="char:EOLhyphen"/>penſe is to fail of our truſt, which is
+Inju<g ref="char:EOLhyphen"/>ſtice in the ſight of God and Men.</p>
+               <p n="2">2. 'Tis the beſt way to make them a bleſ<g ref="char:EOLhyphen"/>ſing, and a
+durable one: A bleſſing to our ſelves, and to our Poſterity alſo. A
+Bleſſing I ſay, for Riches alone, and ſeparately conſi<g ref="char:EOLhyphen"/>dered, are not
+a Bleſſing. The Wiſe man de<g ref="char:EOLhyphen"/>precates them as an Evil, or a Snare. And
+<hi>Solomon</hi> ſays, <hi>There is a ſore evil which I have ſeen under
+the Sun, namely, Riches kept for the owners thereof to their hurt: But thoſe
+Riches periſh by evil travail: And he begetteth a Son, and there is nothing
+in his hand.</hi>
+                  <note place="margin">Eccl. v. 13,14.</note> How many have been
+ruined by Wealth, and have pe<g ref="char:EOLhyphen"/>riſhed by Plenty! Poverty, as great an evil 
+<pb n="16" facs="tcp:49266:12"/>as we think it, hath leſs of danger, and hath done leſs
+harm than Riches. If Poverty be reckoned (as 'tis in the Law of
+<hi>Moſes</hi>) among the Curſes, yet <hi>Philo</hi> the Jew obſerves it
+is placed among them, <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> i. e.
+<hi>as the lighteſt evil:</hi>
+                  <note place="margin">Philo.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> And therefore Riches are
+not to be placed among the greateſt Bleſſings. They are as they are
+uſed, and they muſt be uſed with great care and caution; they are like a
+rich Soil that will indeed produce ex<g ref="char:EOLhyphen"/>cellent Fruits, but then it muſt be
+cultivated and well planted, weeded and kept clean, or elſe it may produce
+what is noxious and miſ<g ref="char:EOLhyphen"/>chievous: The Soil will not of it ſelf afford the
+beſt Productions. Riches will corrupt and run to putrefaction as well as
+other things: They muſt be ſeaſoned and ſtirred, or elſe they'll
+corrupt and ſtink, and that not without the greateſt danger to the
+poſſeſſors of them. Riches are like great waters, if they
+<hi>ſtagnate</hi> they are hurtfull; they are wholſom if they run. 'Tis the
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>the ſtagnation of
+wealth</hi>
+                  <note place="margin">
+                     <hi>Baſil</hi> de Divit. Conc. V.</note> that
+is dangerous, or uſe<g ref="char:EOLhyphen"/>leſs and unprofitable at leaſt. By Alms and Good
+Works we ſeaſon our Wealth, and pre<g ref="char:EOLhyphen"/>ſerve it from periſhing; we pare
+away its hurtfull ſuperfluity, and noxious qualities.<pb n="17" facs="tcp:49266:12"/>We
+muſt doe by our Wealth as the beautifull Woman that was taken Captive from an
+Hea<g ref="char:EOLhyphen"/>then Country, was obliged to doe by the Law of <hi>Moſes:</hi> 
+                  <note place="margin">Deut. xxi. v. 10, <hi>&amp;c.</hi>
+                  </note>
+Before ſhe could be joined to an <hi>Iſraelite,</hi> ſhe was obliged to
+ſhave her Head, and pare her Nails, and lay by the garments of her Captivity,
+and bewail her Father and Mother. There is in Wealth a <hi>praeputium</hi> that
+muſt be cut off; and we muſt doe as the <hi>Jews</hi> were obliged to doe
+by their Trees which they planted in <hi>Canaan,</hi> ſet aſide ſome of
+their Fruits as uncircumciſed, and not take all the increaſe to our
+ſelves:<note place="margin">Lev. xix. 23.</note> In a word, Riches are no
+bleſſing to him who does not exerciſe himſelf in good works: They are
+ſo far from it, that they are a Snare and a Curſe. Nor are ſuch a man's
+poſterity like to be much the better for ſuch an uncircumciſed Eſtate,
+unleſs they take the advice which <hi>Da<g ref="char:EOLhyphen"/>niel</hi> gave to the King of
+<hi>Babylon. Break off thy ſins by Righteouſneſs, and thine iniquities by
+ſhewing mercy to the poor: if it may be a lengthning to thy
+tranquillity.</hi>
+                  <note place="margin">Dan. iv. 27.</note> The ſureſt way of
+leaving a bleſſing upon an Eſtate to our poſterity, will be to beſtow
+great portions of it in Works of Mercy and Piety. <hi>I have been young, and
+now am old,</hi> (ſays the Devout Pſal<g ref="char:EOLhyphen"/>miſt,)<pb n="18" facs="tcp:49266:13"/>
+                  <hi>yet
+have I not ſeen the righteous forſaken, nor his ſeed begging bread.</hi>
+Who he means by the righteous, we may learn from his fol<g ref="char:EOLhyphen"/>lowing words: He is
+<hi>ever mercifull and len<g ref="char:EOLhyphen"/>deth, and his ſeed is bleſſed.</hi>
+                  <note place="margin">Pſal.
+xxxvij. 25,26.</note> That Wealth and Patrimony is like to laſt longeſt,
+that comes thus commended to the Bleſſing of God.<note place="margin"> 
+                     <q>
+                        <hi>Patrimonium Deo creditum nec Reſp. eri<g ref="char:EOLhyphen"/>pit, nec
+fiſcus invadit, nec calumnia ali<g ref="char:EOLhyphen"/>qua forenſis e<g ref="char:EOLhyphen"/>vertit.</hi> 
+                        <bibl>Cypri<g ref="char:EOLhyphen"/>an.</bibl>
+                     </q>
+                  </note>
+               </p>
+               <p n="3">3. 'Tis a great act of pure Religion, and that is what we
+all profeſs and pretend to: 'Tis not onely an <hi>Ornament,</hi> but 'tis a
+<hi>part;</hi> not onely a <hi>part,</hi> but a <hi>main,</hi> and
+<hi>eſſential,</hi> and indiſpenſable part of it too; and without which
+all that we profeſs or doe is nothing better than mere <hi>pretence</hi> and
+<hi>ſhew.</hi>
+                  <note place="margin">Matt. xxij. 37.</note> 
+                  <hi>Pure Re<g ref="char:EOLhyphen"/>ligion
+and undefiled before God and the Father is this, To viſit the Fatherleſs
+and Widows in their affliction, and to keep</hi> ones ſelf <hi>unſpotted
+from the World.</hi>
+                  <note place="margin">Jam. i. 27.</note> Let men pretend to
+<hi>Faith</hi> as much as they will, let them boaſt and vaunt of it as they
+pleaſe; <hi>As the body without the ſpirit is dead, ſo faith without
+works is dead alſo.</hi>
+                  <note place="margin">Chap. ij. 26.</note> Let others
+pretend to what degree they pleaſe (even the moſt Seraphick) of the
+<hi>love</hi> of God: Yet <hi>whoſo hath this World's good, and ſeeth his
+Brother have need, and ſhutteth up his bowels of compaſſion from him, how
+dwel<g ref="char:EOLhyphen"/>leth the love of God in him?</hi>
+                  <note place="margin">1 John iij. 17.</note>
+Let the proud<pb n="19" facs="tcp:49266:13"/>Phariſee boaſt of his frequent
+<hi>faſting,</hi> of his bowing down his head like a Bull-ruſh, and
+ſpreading under him Sackcloth and Aſhes. <hi>Is not this the faſt that I
+have choſen,</hi> (ſays God?) <hi>To deal thy bread to the hungry, and that
+thou bring the poor, that are caſt out, to thy houſe? when thou ſeeſt
+the naked, that thou co<g ref="char:EOLhyphen"/>ver him, and that thou hide not thy ſelf from thine
+own fleſh?</hi>
+                  <note place="margin">Iſai. lviij. v. 7.</note> And for
+<hi>Sacrifices</hi> of old, though they were of God's inſtitution, and made a
+great part of his Worſhip; yet He declares that he preferred Mercy before
+them: <hi>I deſired Mercy, and not Sacrifice.</hi>
+                  <note place="margin">Hoſea
+vj. 6.</note> For all the other <hi>inſtruments</hi> or <hi>means</hi> of
+Religion, how ſerviceable ſoever they may be, are yet not worthy to be
+compared to Brotherly Love and Charity, to Acts of Mercy and Relief.</p>
+               <p>There are two ways eſpecially by which we do expreſs a
+Religious frame of Mind; <hi>viz.</hi> By imitating of God; and, Secondly, by a
+thankfull acknowledging his Mercies: Both theſe are well done by Acts of
+Mercy.</p>
+               <p>Firſt, By Acts of Mercy and Beneficence we imitate God, and by
+that expreſs a Reli<g ref="char:EOLhyphen"/>gious temper of Mind. To imitate Him whom we pretend to
+worſhip, is very reaſo<g ref="char:EOLhyphen"/>nable and ſafe: And if we live by this Rule, 
+<pb n="20" facs="tcp:49266:14"/>we ſhall make conſiderable attainments in Religion.
+Hence it is uſed as a great Mo<g ref="char:EOLhyphen"/>tive under the Law of <hi>Moſes, That they
+ſhould be Holy,</hi> becauſe <hi>God was Holy.</hi> And our Sa<g ref="char:EOLhyphen"/>viour does
+more than once uſe this Topick, when he perſuades his Followers to forgive
+their Enemies, and to doe good; He would have them mercifull, as their Father
+in Hea<g ref="char:EOLhyphen"/>ven is mercifull: And 'tis believed the Hea<g ref="char:EOLhyphen"/>thens upon this account were
+wicked, be<g ref="char:EOLhyphen"/>cauſe their Deities were repreſented as ſuch; they were wicked
+<hi>Magiſterio Deorum.</hi>
+               </p>
+               <p>But the wiſer of the Heathens owned God to be good, and the
+greateſt Benefactor to Mankind; and that the way to imitate the Gods, was to
+doe Benefits; 
+<note place="margin"> 
+                     <q>
+                        <hi>Hic eſt vetu<g ref="char:EOLhyphen"/>ſtiſſimus refe<g ref="char:EOLhyphen"/>rendi benè
+me<g ref="char:EOLhyphen"/>rentibus grati<g ref="char:EOLhyphen"/>am mos, ut ta<g ref="char:EOLhyphen"/>les numinibus adſcribantur,</hi> 
+                        <bibl>Plin. <hi>Nat. Hiſt. l.</hi> 11. <hi>c.</hi>
+7.</bibl>
+                     </q>
+                  </note> And they were ſo far of that perſuaſion, that they
+reckoned their great Benefactors among their Deities. We have here a powerfull
+Motive to doe good, <hi>&amp;c.</hi> from the Example of God, and of our
+Bleſſed Saviour, who went about do<g ref="char:EOLhyphen"/>ing good. God is good unto all, and his
+Mercies are above all his Works: If we think we have reaſon to worſhip Him,
+we have the ſame to imitate Him, and to be Followers of God as dear
+Children.</p>
+               <p>
+                  <pb n="21" facs="tcp:49266:14"/>Secondly, By Acts of Mercy, we make an
+acknowledgment or recognition of his Mer<g ref="char:EOLhyphen"/>cies to us; by which we doe likewiſe
+expreſs a Religious frame and temper of Mind. This is the way to own him to
+be the Author of all our Mercies: And when out of gratitude, and a ſenſe of
+his favours, and for his ſake, we doe good to our Brother, we doe
+effec<g ref="char:EOLhyphen"/>tually demonſtrate, that our Religion is more than bare profeſſion
+and pretence. And here is another very powerfull Motive to prevail with them
+that are Rich in this World to doe good, <hi>&amp;c.</hi> 'Tis due from them as
+a Tribute of Praiſe to God, who alone hath made the difference: Among the
+<hi>Jews</hi> this was done by certain Euchariſtical Sacrifices, where the
+Offerer expreſſed the ſenſe he had of the Divine Mercies by his
+Oblation; of which a very ſmall part onely was offered upon the Altar, the
+reſt was divided between the Prieſt and the Offerer. And as the Of<g ref="char:EOLhyphen"/>ferer
+had the bulk or main part of the Offe<g ref="char:EOLhyphen"/>ring to himſelf, ſo he was obliged by
+the Law of <hi>Moſes</hi> to take care that it might not be laid by any long
+time for his own pri<g ref="char:EOLhyphen"/>vate uſe; it was to be eaten quickly, and conſequently
+not eaten by himſelf alone:<pb n="22" facs="tcp:49266:15"/>But his Neighbour was to be
+partaker with him. Charity and Hoſpitality was thus pro<g ref="char:EOLhyphen"/>vided for: 'Twas not
+the Offering that God accepted alone, but the gratefull Mind and the thankfull
+Recognition of the Offerer: And He was to expreſs that by his kindneſs to
+his Brother.</p>
+               <p>Hath God given you Wealth, and abun<g ref="char:EOLhyphen"/>dance? Make your
+Acknowledgments to Him who alone hath made the difference: Let it appear that
+you have a due Senſe of his Bounty. How many ways may you ex<g ref="char:EOLhyphen"/>preſs the
+great Senſe you have on your Mind of the peculiar Mercy of God to you? There
+are ſome that want bread and cloa<g ref="char:EOLhyphen"/>thing; ſome are diſeaſed, others in
+priſon; ſome hopefull Youths will want inſtruction, and a way of
+livelihood, without your cha<g ref="char:EOLhyphen"/>rity and care: You may, if you pleaſe, com<g ref="char:EOLhyphen"/>fort
+many a mournfull Widow, ſupport many fatherleſs Children, help many
+diſcon<g ref="char:EOLhyphen"/>ſolate Strangers, keep many from Idleneſs and more from Starving:
+God hath done much for you, is it not fit you ſhould caſt about what to doe
+for Him? For Him who hath given you all things richly to en<g ref="char:EOLhyphen"/>joy; For Him who is
+your greateſt Friend<pb n="23" facs="tcp:49266:15"/>and Benefactor; For Him who hath the
+greateſt right to you and yours: Shall we ſpend upon our Luſts, or in the
+Service of the Devil, what God hath ſo bountifully be<g ref="char:EOLhyphen"/>ſtowed upon us? This
+would be the greateſt impiety and ingratitude at once.</p>
+               <p>I remember <hi>Cyprian</hi> upon this occaſion brings in the
+Devil (accompanied with his numerous train) vaunting over our Saviour: 
+<note place="margin">
+                     <hi>De Opere &amp;
+Eleemoſyn.</hi>
+                  </note>
+                  <hi>Ego pro iſtis quos mecum vides, nec alapas
+ac<g ref="char:EOLhyphen"/>cepi, nec flagella ſuſtinui, nec crucem pertuli,</hi> &amp;c. <hi>For
+theſe followers of mine</hi> (ſays he) <hi>I have re<g ref="char:EOLhyphen"/>ceived no blows,
+endured no ſtripes, nor born a Croſs, nor ſhed my bloud, a price of their
+re<g ref="char:EOLhyphen"/>demption; I promiſe no heavenly Kingdom, no immortality in Paradiſe; And
+yet</hi> (ſays he) <hi>they preſent me with great, and precious, and
+coſt<g ref="char:EOLhyphen"/>ly gifts,</hi> &amp;c. <hi>Tuos tales munerarios, Chriſte,
+de<g ref="char:EOLhyphen"/>monſtra,</hi> &amp;c. <hi>Shew me, O Chriſt, ſuch followers of thee
+among the rich and the wealthy, who are encouraged by the promiſe of Eternal
+life.</hi> We ſhall be without excuſe, if we doe not that out of gratitude
+to God and our Saviour, which others doe in the ſervice of the Devil, and
+proſecution of their luſts.</p>
+               <p n="4">4. To doe good, <hi>&amp;c.</hi> is the way to ſecure to
+our ſelves Eternal life; 'Tis at leaſt a<pb n="24" facs="tcp:49266:16"/>neceſſary
+condition on our part, and the way to it; without it we muſt never expect
+that Bleſſed ſtate. And thus much is intimated to us in the words of my
+Text, which come next to be conſidered: <hi>Laying up in ſtore for
+themſelves a good foundation againſt the time to come, that they may lay
+hold on Eternal life.</hi> 'Tis conſidered as a foundation, which though it
+doe not raiſe, yet it muſt precede the fol<g ref="char:EOLhyphen"/>lowing ſuperſtructure; Our
+hope of Eternal life falls to the ground without this courſe: And if we would
+build to any height or pur<g ref="char:EOLhyphen"/>poſe, we muſt lay a good foundation firſt: But
+the Greek word we render <hi>foundation,</hi> is thought to ſignifie
+ſomewhat elſe here, and that as agreeably to my preſent purpoſe: And
+this <hi>a writing that is obligatory,</hi> or a writing that gives the
+Creditor caution, and a right to recover his debt: And this 'tis ſuppoſed
+to ſignifie in correſpondence to a certain He<g ref="char:EOLhyphen"/>brew word that anſwers to
+it. And thus this Greek word is ſuppoſed to ſignifie in the fol<g ref="char:EOLhyphen"/>lowing
+Epiſtle, <hi>The foundation ſtandeth ſure;</hi>
+                  <note place="margin">2 Tim.
+ij. 19.</note> That is, God's Covenant or Promiſe: For it follows, <hi>Having
+this Seal,</hi> &amp;c. A Seal be<g ref="char:EOLhyphen"/>longs properly enough to a writing or
+in<g ref="char:EOLhyphen"/>ſtrument of Contract, but not to a founda<g ref="char:EOLhyphen"/>tion<pb n="25" facs="tcp:49266:16"/>vvhich
+lies under-ground: And in this ſenſe they that doe good may be ſaid to
+have good ſecurity that they ſhall not loſe their revvard; and 'tis the
+beſt and ſureſt vvhat<g ref="char:EOLhyphen"/>ſoever: <hi>Quas dederas tantùm ſemper
+habebis opes; He that gives to the poor, lendeth to the Lord;</hi>
+                  <note place="margin">Prov. xix. 17.</note> and He hath engaged to <hi>re-pay</hi> him:
+The Revvard is due novv by Covenant and Promiſe: <hi>Henceforth</hi> (ſays
+St. <hi>Paul</hi>) <hi>there is laid up for me a Crown of righteouſneſs,
+which the Lord, the righteous Judge, ſhall give me at that day.</hi>
+                  <note place="margin">2 Tim. ij. 8.</note> We diſclaim the <hi>Merit,</hi> but muſt
+believe the <hi>Neceſſity</hi> of Good Works, in or<g ref="char:EOLhyphen"/>der to obtaining
+Eternal life: And this vve muſt doe if vve believe the Holy Scriptures; They
+put us upon them as the vvay to Glory and Immortality. Thus our Saviour,
+<hi>Sell that ye have, and give Alms: Provide your ſelves bags which Wax not
+old; a treaſure in the Heavens that faileth not.</hi>
+                  <note place="margin">Luke
+xij. 33.</note> Again, <hi>Make to your ſelves friends of the Mammon of
+unrigh<g ref="char:EOLhyphen"/>teouſneſs; that when ye fail, they may receive you</hi> (<hi>i.
+e.</hi> ye may be received) <hi>into everla<g ref="char:EOLhyphen"/>ſting habitations.</hi>
+                  <note place="margin">xvj. 9.</note> 
+                  <hi>Give diligence</hi> (ſays St.
+<hi>Pe<g ref="char:EOLhyphen"/>ter</hi>) <hi>to make your calling and election ſure.</hi>
+                  <note place="margin">2 Pet. i. 10,1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+This is indeed according to our ordinary Copies; but 'tis othervviſe in
+ſome other<pb n="26" facs="tcp:49266:17"/>Copy of the Greek:
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <hi>i. e.</hi> Give
+diligence, that by Good Works ye make your Calling and Election ſure. It
+follovvs, <hi>For ſo an entrance ſhall be miniſtred unto you abundantly
+into the everla<g ref="char:EOLhyphen"/>ſting Kingdom of our Lord and Saviour Jeſus Chriſt.</hi>
+All this agrees exactly vvith the vvords of my Text, <hi>Laying in
+ſtore,</hi> &amp;c. and affords a mighty Motive to doe good: He that does
+good, advances tovvard Heaven; does that vvhich tends to the leſſening his
+account, and making ſure his future Happi<g ref="char:EOLhyphen"/>neſs: He that ſhevvs Mercy for
+God's ſake, ſhall not fail to receive it vvhen he needs it moſt; and vve
+ſhall need it at that Great Day. Theſe things vve firmly believe, or vve
+doe not: If vve doe not, vvhy doe vve profeſs the belief of them? If vve doe,
+vve need no other Motive to doe good: For vve take the vviſeſt courſe
+vvhen vve exchange Periſhing for Eternal Riches; vvhen by Works of Mercy here
+vve ſtore up a reverſion of Mercy at that great and terrible Day, vvhen God
+ſhall treat every Man according to his Works. And vvhen all good Men vvill
+re<g ref="char:EOLhyphen"/>ceive a revvard incomparably beyond vvhat our Eye hath ſeen, our Ear hath
+heard, or <pb n="27" facs="tcp:49266:17"/>hath entred into the Heart of Man to
+con<g ref="char:EOLhyphen"/>ceive.</p>
+            </div>
+            <div n="4" type="section">
+               <head>IV.</head>
+               <p>(IV.) I proceed now to make ſome Uſe and Application of what
+hath been ſaid.</p>
+               <p n="1">1. We may learn from what hath been ſaid, the great
+danger of a plentifull and pro<g ref="char:EOLhyphen"/>ſperous Condition: St. <hi>Paul</hi> thought
+ſo, when he put <hi>Timothy</hi> upon the <hi>Charge</hi> here in my Text;
+<hi>Charge them that are rich in this world, that they be not high-minded,</hi>
+&amp;c. I wiſh we were duly ſenſible of this truth: If we were, we
+ſhould now and then tremble for fear we ſhould receive all our good things
+in this life. Here's enough to humble the moſt proſperous, if it be duly
+laid to heart: Here's nothing in this World generally more un<g ref="char:EOLhyphen"/>happy than that
+Man is who meets with no Affliction, or with very little. We pity the poor and
+deſtitute, and we ought to doe it: But, alas! there are young perſons to be
+ſeen in Coaches, and with Trains after them, that are acquainted with nothing
+but the glozing Side of the World, that ſpend their Time in Plays and
+Pleaſures, that in the Judgment of a Wife man, are greater Objects of Pity
+and<pb n="28" facs="tcp:49266:18"/>Compaſſion. 'Tis a peradventure but theſe young
+perſons loſe their hopes of a future happineſs: They will be in great
+danger of forgetting God and themſelves. We trea<g ref="char:EOLhyphen"/>ſure up Wealth for our
+Children; we deſign to make them great Fortunes, as we call it: But, alas!
+vain Men that we are, we know not what we doe; We rake together what perhaps
+will be but the nouriſhment of their Pride, the fuel of their Luſts, and a
+ſnare to their immortal Souls. God give us a due ſenſe of this danger of
+proſperity. This would mightily diſpoſe us to doe good: And for that
+reaſon ſure St. <hi>Paul</hi> makes it the firſt part of the Charge, That
+<hi>they who are rich in this World, ſhould not be high-minded,</hi>
+&amp;c.</p>
+               <p n="2">2. We may alſo learn, from what hath been ſaid, the
+true uſe of Riches. They are not things deſirable upon their own account:
+So far from it, that the Wiſe man deprecates them as well as Poverty: And
+indeed Pover<g ref="char:EOLhyphen"/>ty ſeems the leſs Evil of the Two to him that conſiders
+things with due Application. But I will not enter into that Enquiry now. 'Tis
+certain that the Good of Riches lies in this, That they give us an opportunity
+of doing good in the World.</p>
+               <p n="3">
+                  <pb n="29" facs="tcp:49266:18"/>3. Give me leave then to preſs upon
+you the Duty that lies before you in the words of my Text; <hi>To doe good, to
+be rich in good works, ready to diſtribute, willing to communi<g ref="char:EOLhyphen"/>cate.</hi> If
+you would have it in other words, you may take it in our Saviour's, <hi>Be
+merci<g ref="char:EOLhyphen"/>full, as your Father which is in heaven is merci<g ref="char:EOLhyphen"/>full.</hi> Imitate God
+and your Bleſſed Saviour; ſhew whoſe Creatures, and whoſe Diſciples
+you are: And if the Mercies of God, and the Example of <hi>Jeſus</hi> be not
+powerfull e<g ref="char:EOLhyphen"/>nough; yet your own Intereſt, methinks, ſhould not fail to move
+you. Be kind to your ſelves, and to your Poſterity. Leſſen your
+accounts, and lay up a ſtore of Mercy againſt you need it. Do not leave an
+un<g ref="char:EOLhyphen"/>ſeaſoned and unbleſſed Eſtate to your Chil<g ref="char:EOLhyphen"/>dren. Correct it, and
+make it wholſome, that it prove not their Bane. Let it have none of the Cries
+of the Poor mingled with it. Adorn your Holy Religion, and let all Men ſee
+the mighty Senſe you have of the Mercies of God, and of the Love of Jeſus.
+Doe good while you can. Your opportuni<g ref="char:EOLhyphen"/>ties will not always remain. The time
+may come that you may not be able to doe it. Serve your Generation with your
+Power and<pb n="30" facs="tcp:49266:19"/>Wealth; encourage Piety and Diligence; promote
+with all your Might the good of Souls, and the benefit of the Publick: This
+will gain you a Name better than that of Sons and Daughters; 'Twill bring you
+Peace upon your dying Beds, and (if you conti<g ref="char:EOLhyphen"/>nue and abound) you will at
+laſt enter into Joy unſpeakable, and full of Glory. Which that we may all
+doe, God of his infinite Mer<g ref="char:EOLhyphen"/>cy grant, for Jeſus Chriſt's ſake.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49266:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
